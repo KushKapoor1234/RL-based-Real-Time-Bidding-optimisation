@@ -1,16 +1,16 @@
 
-# Team Ordinals - Real-Time Bidding (RTB) Pipeline
+# Team Jingle bells - Real-Time Bidding (RTB) Pipeline
 
-Welcome to the repository for Team Ordinals' RTB pipeline. This project addresses the challenge of predicting Click-Through Rate (CTR) and Conversion Rate (CVR) for real-time bidding scenarios and then dynamically adjusting bids using a Reinforcement Learning (RL) based strategy.
+Welcome to the repository for RTB pipeline. This project addresses the challenge of predicting Click-Through Rate (CTR) and Conversion Rate (CVR) for real-time bidding scenarios and then dynamically adjusting bids using a Reinforcement Learning (RL) based strategy.
 
 ---
 
 ## 1. Team Details
 
-**Team Name:** Team Ordinals  
+**Team Name:** Team Jingle bells  
 **Team Members:**  
 - Tarun Jain  
-- Ujjwal Kakar  
+- Kush Kapoor  
 - Aryan Sood  
 - Utkarsh Chaudhary  
 
