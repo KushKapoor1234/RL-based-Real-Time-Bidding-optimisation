@@ -1,5 +1,5 @@
 
-# Real-Time Bidding (RTB) Pipeline
+# Real-Time Bidding (RTB) Pipeline - Adobe DevCraft
 
 Welcome to the repository for RTB pipeline. This project addresses the challenge of predicting Click-Through Rate (CTR) and Conversion Rate (CVR) for real-time bidding scenarios and then dynamically adjusting bids using a Reinforcement Learning (RL) based strategy.
 
