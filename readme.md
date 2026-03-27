@@ -7,7 +7,7 @@ Welcome to the repository for RTB pipeline. This project addresses the challenge
 
 ## 1. Team Details
 
-**Team Name:** Team Jingle bells  
+**Team Name:** Jingle bells  
 **Team Members:**  
 - Tarun Jain  
 - Kush Kapoor  
