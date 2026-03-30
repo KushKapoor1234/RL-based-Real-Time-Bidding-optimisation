@@ -224,6 +224,3 @@ We present a hybrid pipeline that combines:
 This comprehensive approach balances prediction accuracy, speed, and practical constraints in the competitive RTB environment.
 
 ---
-
-**Thank you for exploring our repository!**  
-```
