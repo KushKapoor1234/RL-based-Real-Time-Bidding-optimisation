@@ -5,10 +5,7 @@ Welcome to the repository for RTB pipeline. This project addresses the challenge
 
 ---
 
-## 1. Team Details
-
-**Team Name:** Jingle bells  
-**Team Members:**  
+## 1. Contributors
 - Tarun Jain  
 - Kush Kapoor  
 - Aryan Sood  
@@ -218,7 +215,7 @@ These results highlight the improved performance achieved by our ensemble approa
 
 ## 10. Conclusion
 
-Team Ordinals presents a hybrid pipeline that combines:
+We present a hybrid pipeline that combines:
 
 1. **Ensemble Modeling** (using GBMs and Logistic Regression) for accurate CTR and CVR predictions.  
 2. A **Reinforcement Learning (Modified FAB) strategy** for dynamic, real-time bid adjustments that optimize both ROI and resource utilization.  
@@ -229,5 +226,4 @@ This comprehensive approach balances prediction accuracy, speed, and practical c
 ---
 
 **Thank you for exploring our repository!**  
-For questions or further information, please feel free to reach out to **Team Ordinals**.
 ```
