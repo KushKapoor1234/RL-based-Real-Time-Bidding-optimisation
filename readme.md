@@ -222,5 +222,3 @@ We present a hybrid pipeline that combines:
 3. An **Adaptive Bid Flow** mechanism to effectively handle varying budget and time constraints.
 
 This comprehensive approach balances prediction accuracy, speed, and practical constraints in the competitive RTB environment.
-
----
